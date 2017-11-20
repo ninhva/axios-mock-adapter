@@ -1,6 +1,6 @@
 'use strict';
 
-var axios = require('axios');
+var axios = require('bookclubz-axios');
 var deepEqual = require('deep-equal');
 
 function isEqual(a, b) {
